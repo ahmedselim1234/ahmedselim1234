@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ahmed selim</h1>
-<h3 align="center">A passionate Backend Developer always learning and building</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Selim</h1>
+<h3 align="center">💻 A passionate Backend Developer always learning and building</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Always+Learning+New+Tech;Building+with+Node.js+and+Express&center=true&width=500&height=40&color=F7DF1E&vCenter=true&pause=1000&size=22" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github&theme=light" />
 </p>
 
 ---
@@ -20,22 +18,19 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedselim1234&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedselim1234&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Contact Me
-- Email: a7med.selim123456@gmail.com
-- LinkedIn:[ [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-](https://www.linkedin.com/in/ahmed-selim-358035334/)
----
+### 📬 Contact Me
 
-### 🚀 About Me
-```js
-const Ahmed = {
-  role: "Backend Developer",
-  skills: ["Node.js", "Express", "HTML", "CSS", "JavaScript", "Git", "GitHub"],
-  learning: "Improving my skills and exploring new technologies",
-  passion: "Building meaningful backend systems with clean, efficient code"
-}
+<p align="center">
+  <a href="mailto:a7med.selim123456@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-selim-358035334/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ahmedselim1234" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+
