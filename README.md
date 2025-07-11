@@ -15,6 +15,14 @@
 
 ---
 
+### 🛢️ Databases & ORM
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+</p>
+
+---
 
 ### 📬 Contact Me
 
@@ -23,5 +31,3 @@
   <a href="https://www.linkedin.com/in/ahmed-selim-358035334/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ahmedselim1234" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-
