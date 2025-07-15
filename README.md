@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Selim</h1>
-<h3 align="center">💻Full Stack Developer with a strong passion for innovation, problem-solving, and lifelong learning</h3>
+<h3 align="center">💻Full Stack Developer with solid expertise in Node.js and React and building scalable, secure RESTful APIs.
+ I specialize in designing and implementing efficient backend systems using Express.js, MongoDB, and other modern technologies.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Always+Learning+New+Tech;Building+with+Node.js+and+Express&center=true&width=500&height=40&color=F7DF1E&vCenter=true&pause=1000&size=22" />
