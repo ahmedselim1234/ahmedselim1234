@@ -3,7 +3,7 @@
  I specialize in designing and implementing efficient backend systems using Express.js, MongoDB, and other modern technologies.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Always+Learning+New+Tech;Building+with+Node.js+and+Express&center=true&width=500&height=40&color=F7DF1E&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full stack+Developer;Always+Learning+New+Tech;Building+with+Node.js+and+Express+React&center=true&width=500&height=40&color=F7DF1E&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
